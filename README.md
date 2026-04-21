@@ -37,8 +37,6 @@ The through-line across all of it: building things that work correctly, that non
 ## Certifications
 
 - Certified ScrumMaster (CSM) — Scrum Alliance
-- AZ-500: Microsoft Azure Security Engineer Associate — Planned
-- AI-102: Microsoft Azure AI Engineer Associate — Planned
 
 ---
 
@@ -48,6 +46,4 @@ Working on an AI or Azure engagement and want to understand what the implementat
 
 - **Vizius Group:** [vizius.com](https://vizius.com)
 - **Email:** adam.steinberger@vizius.com
-- **Portfolio:** [hire.adam.matthewsteinberger.com](https://hire.adam.matthewsteinberger.com)
 - **LinkedIn:** [adammatthewsteinberger](https://linkedin.com/in/adammatthewsteinberger)
-- **GitHub:** [@adammatthewsteinberger](https://github.com/adammatthewsteinberger)
