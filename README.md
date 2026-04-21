@@ -12,7 +12,7 @@ I build AI systems that actually work inside enterprise environments. Not just d
 
 At The Vizius Group, I design and deploy custom AI agents, RAG systems, and Azure-native data pipelines for mid-market and enterprise clients in manufacturing, healthcare, and financial services. The work usually starts with a business problem nobody has been able to solve cleanly: margin analysis at scale, fragmented ERP data, SharePoint content that is impossible to search. It ends with something a non-technical team can actually run.
 
-What I have found after 13+ years building these systems: the hardest part is never the technology. It is designing the solution so the people who inherit it do not need you to maintain it.
+What I have found after 13+ years building these systems: the hardest part is never the technology. It is designing the solution so the people who inherit it have a quality product that just works, no headaches.
 
 ---
 
