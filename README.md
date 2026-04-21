@@ -8,7 +8,7 @@ Building AI agents and Azure cloud infrastructure for cybersecurity-first enterp
 
 ---
 
-I build AI systems that actually work inside enterprise environments. Not demos, not proof-of-concepts, but production-grade platforms that handle real data, real security requirements, and real organizational complexity.
+I build AI systems that actually work inside enterprise environments. Not just demos, not just proof-of-concepts, but production-grade platforms that handle real data, real security requirements, and real organizational complexity.
 
 At The Vizius Group, I design and deploy custom AI agents, RAG systems, and Azure-native data pipelines for mid-market and enterprise clients in manufacturing, healthcare, and financial services. The work usually starts with a business problem nobody has been able to solve cleanly: margin analysis at scale, fragmented ERP data, SharePoint content that is impossible to search. It ends with something a non-technical team can actually run.
 
