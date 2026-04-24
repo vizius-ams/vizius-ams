@@ -1,8 +1,8 @@
 # Adam Steinberger @ The Vizius Group
 
-**Senior Azure and AI Development Engineer**
+## Senior Azure and AI Development Engineer, Autistic / Neurodivergent
 
-Building AI agents and Azure cloud infrastructure for cybersecurity-first enterprises.
+### Building AI agents and Azure cloud infrastructure for cybersecurity-first enterprises.
 
 📍 Greenville, SC · [vizius.com](https://vizius.com) · [LinkedIn](https://linkedin.com/in/adammatthewsteinberger)
 
