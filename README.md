@@ -26,7 +26,7 @@ The core technical surface area is Azure cloud infrastructure, AI agent design a
 
 ## Background
 
-Gifted Autistic. 13+ years building systems across AI, enterprise automation, healthcare, financial services, and cybersecurity.
+Autistic / Neurodivergent. 13+ years building systems across AI, enterprise automation, healthcare, financial services, and cybersecurity.
 
 First job out of college was building 3D medical imaging software at GE Healthcare IT, the kind of work where accuracy is not optional. Then I started building insurance systems at a small shop in Schenectady where the clients sat in front of the software all day and told you directly when something did not work.  Founded a B2B financial advisor matchmaking platform, which meant doing every job at once: product, engineering, operations, hiring, strategy. Spent nearly two years doing deep enterprise data integration work at a local real estate firm before moving into full-time AI consulting.
 
