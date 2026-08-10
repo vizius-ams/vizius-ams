@@ -1,4 +1,4 @@
-# Adam Steinberger @ The Vizius Group
+# Adam Matthew Steinberger @ The Vizius Group
 
 ## Senior Azure and AI Development Engineer, Autistic / Neurodivergent
 
